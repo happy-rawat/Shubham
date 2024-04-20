@@ -1,0 +1,10 @@
+.navbar {
+    display: flex;
+    margin: auto;
+    color: aqua;
+}
+.nav-search {
+    padding: 50px;
+    background-color: blue;
+    background-size: cover;
+}
